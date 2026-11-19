@@ -1,11 +1,27 @@
-# About of your Gadget
+<div align="center">
+  <img src="img/logo.png" alt="About of your Gadget Logo" width="110" />
+  <h1>About of your Gadget</h1>
+  <p>🌐 <strong>Language:</strong> <strong>English</strong> | <a href="README-RU.md">Русский</a></p>
 
-![Platform](https://img.shields.io/badge/Platform-Android%205.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)
-![Developer](https://img.shields.io/badge/Developer-ByteTools%20Inc.-orange?style=flat-square)
-![License](https://img.shields.io/badge/Status-Released-success?style=flat-square)
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Android%205.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform" />
+    <img src="https://img.shields.io/badge/Version-1.0-blue?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/Developer-ByteTools%20Inc.-orange?style=flat-square" alt="Developer" />
+    <img src="https://img.shields.io/badge/Status-Released-success?style=flat-square" alt="Status" />
+  </p>
+</div>
 
 **About of your Gadget** (`com.bytetools.aboutgadget`) is a lightweight Android system utility designed to provide detailed hardware specifications and real-time temperature monitoring for your smartphone or tablet.
+
+---
+
+## Screenshots
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="img/screenshot.png" alt="Screenshot" width="240" /> | <img src="img/screenshot1.png" alt="Screenshot 1" width="240" /> | <img src="img/screenshot2.png" alt="Screenshot 2" width="240" /> |
+| <img src="img/screenshot3.png" alt="Screenshot 3" width="240" /> | <img src="img/screenshot4.png" alt="Screenshot 4" width="240" /> | <img src="img/screenshot5.png" alt="Screenshot 5" width="240" /> |
+| <img src="img/screenshot6.png" alt="Screenshot 6" width="240" /> | <img src="img/screenshot7.png" alt="Screenshot 7" width="240" /> | <img src="img/screenshot8.png" alt="Screenshot 8" width="240" /> |
 
 ---
 
