@@ -1,7 +1,8 @@
 <div align="center">
   <img src="img/logo.png" alt="About of your Gadget Logo" width="110" />
   <h1>About of your Gadget</h1>
-  <p>🌐 <strong>Language:</strong> <strong>English</strong> | <a href="README-RU.md">Русский</a></p>
+  <p>🌐   <p>🌐 <strong>Language:</strong> <strong>English</strong> | <a href="README-UA.md">Українська</a> | <a href="README-RU.md">Русский</a></p>
+  
 
   <p>
     <img src="https://img.shields.io/badge/Platform-Android%205.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform" />
