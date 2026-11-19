@@ -1,45 +1,55 @@
-# About of Your Gadget 📱
+# About of your Gadget
 
-<p align="center">
-  <a href="README.md">English</a> | <a href="README-RU.md">Русский</a>
-</p>
+![Platform](https://img.shields.io/badge/Platform-Android%205.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)
+![Developer](https://img.shields.io/badge/Developer-ByteTools%20Inc.-orange?style=flat-square)
+![License](https://img.shields.io/badge/Status-Released-success?style=flat-square)
 
-<p align="center">
-  <img src="img/logo.png" width="120" height="120" alt="App Logo">
-</p>
-
-<p align="center">
-  <b>A lightweight and convenient system monitor for Android devices (API 21+), built with Sketchware Pro.</b>
-</p>
+**About of your Gadget** (`com.bytetools.aboutgadget`) is a lightweight Android system utility designed to provide detailed hardware specifications and real-time temperature monitoring for your smartphone or tablet.
 
 ---
 
-## 🚀 Key Features
-* **Real-time Hardware Monitoring:** Track battery temperature and CPU thermal zones in real-time.
-* **System & Power Info:** Battery voltage and core device parameters.
-* **Optimized Architecture:** Clean Java code utilizing safe background threads (`Handler`).
+## Features
+
+- **Real-Time Temperature Monitoring:** Track battery and device thermal status in real time.
+- **Hardware & System Specifications:** View detailed information about your CPU, GPU, RAM, storage, display, and Android OS build.
+- **Lightweight & Fast:** Minimal footprint (~6.2 MB) optimized for both modern and legacy devices running **Android 5.0 (Lollipop)** and higher.
+- **Clean Interface:** Straightforward layout for quick diagnostics without unnecessary background bloat.
 
 ---
 
-## 📸 App Screenshots
+## Download
 
-<p align="center">
-  <img src="img/screenshot.png" width="220" alt="Screenshot 1" />
-  <img src="img/screenshot2.png" width="220" alt="Screenshot 2" />
-  <img src="img/screenshot3.png" width="220" alt="Screenshot 3" />
-  <img src="img/screenshot4.png" width="220" alt="Screenshot 4" />
-  <img src="img/screenshot5.png" width="220" alt="Screenshot 5" />
-  <img src="img/screenshot6.png" width="220" alt="Screenshot 6" />
-  <img src="img/screenshot7.png" width="220" alt="Screenshot 7" />
-  <img src="img/screenshot8.png" width="220" alt="Screenshot 8" />
-</p>
+Get the official APK directly from **APKPure** or via **GitHub Releases**:
+
+[![Get it on APKPure](https://img.shields.io/badge/APKPure-Download%20APK%20(6.2%20MB)-34B161?style=for-the-badge&logo=android&logoColor=white)](https://apkpure.com/ru/about-of-your-gadget/com.bytetools.aboutgadget)
+[![GitHub Releases](https://img.shields.io/badge/GitHub-Releases-181717?style=for-the-badge&logo=github&logoColor=white)](../../releases)
+
+- **Package Name:** `com.bytetools.aboutgadget`
+- **Minimum OS:** Android 5.0+
+- **APK Size:** 6.2 MB
+- **Official APKPure Page:** [About of your Gadget on APKPure](https://apkpure.com/ru/about-of-your-gadget/com.bytetools.aboutgadget)
 
 ---
 
-## 🛠 Tech Stack
-* **Platform:** Sketchware Pro / AndroidX
-* **Language:** Java
-* **Min SDK:** Android 5.0+ (API 21+)
+## Installation
 
-## 📥 Download
-You can download the latest APK release in the **[Releases](../../releases)** section.
+1. Download the `.apk` file from **APKPure** or the **Releases** tab above.
+2. Open the downloaded file on your Android device.
+3. If prompted, allow installation from unknown sources in your device or browser settings.
+4. Tap **Install** and launch **About of your Gadget**.
+
+---
+
+## Changelog
+
+### v1.0 (November 19, 2026)
+- Initial public release.
+- Added core hardware diagnostics and real-time device temperature monitoring.
+- Published on APKPure (Partner Developer) and GitHub Releases.
+
+---
+
+## Developer
+
+Developed and maintained by **ByteTools Inc.**
