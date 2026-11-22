@@ -69,6 +69,7 @@ Get the official APK directly from **APKPure** or via **GitHub Releases**:
 - Initial public release.
 - Added a new button "Memory"
 - Also changed simple buttons to Material Button.
+- Published on APKPure (Partner Devoloper) and Github Releases.
 ---
 
 ## Developer
