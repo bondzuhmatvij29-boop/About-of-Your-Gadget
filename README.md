@@ -65,6 +65,10 @@ Get the official APK directly from **APKPure** or via **GitHub Releases**:
 - Added core hardware diagnostics and real-time device temperature monitoring.
 - Published on APKPure (Partner Developer) and GitHub Releases.
 
+### v1.1 (November 22, 2026)
+- Initial public release.
+- Added a new button "Memory"
+- Also changed simple buttons to Material Button.
 ---
 
 ## Developer
