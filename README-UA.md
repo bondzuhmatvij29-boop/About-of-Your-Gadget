@@ -5,7 +5,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Platform-Android%205.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform" />
-    <img src="https://img.shields.io/badge/Version-1.0-blue?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/Version-1.1-blue?style=flat-square" alt="Version" />
     <img src="https://img.shields.io/badge/Developer-ByteTools%20Inc.-orange?style=flat-square" alt="Developer" />
     <img src="https://img.shields.io/badge/Status-Released-success?style=flat-square" alt="Status" />
   </p>
